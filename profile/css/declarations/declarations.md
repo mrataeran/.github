@@ -9,7 +9,7 @@ CSS rule declarations specify a property and value to assign when the rule selec
 | background-color   | color                              | `red`               | Fill the background color                                                      |
 | border             | color width style                  | `#fad solid medium` | Sets the border using shorthand where any or all of the values may be provided |
 | border-radius      | unit                               | `50%`               | The size of the border radius                                                  |
-| box-shadow         | x-offset y-offset blu-radius color | `2px 2px 2px gray`  | Creates a shadow                                                               |
+| box-shadow         | x-offset y-offset blur-radius color | `2px 2px 2px gray`  | Creates a shadow                                                               |
 | columns            | number                             | `3`                 | Number of textual columns                                                      |
 | column-rule        | color width style                  | `solid thin black`  | Sets the border used between columns using border shorthand                    |
 | color              | color                              | `rgb(128, 0, 0)`    | Sets the text color                                                            |
