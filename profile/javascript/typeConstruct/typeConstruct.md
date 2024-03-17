@@ -20,8 +20,8 @@ JavaScript defines several primitive types.
 
 | Type        | Meaning                                                    |
 | ----------- | ---------------------------------------------------------- |
-| `Null`      | The type of a variable that has not been assigned a value. |
-| `Undefined` | The type of a variable that has not been defined.          |
+| `Null`      | The type of a variable that has intentionally not, yet, been assigned a value. |
+| `Undefined` | A variable that has not been assigned a value is of type undefined .          |
 | `Boolean`   | true or false.                                             |
 | `Number`    | A 64-bit signed number.                                    |
 | `BigInt`    | A number of arbitrary magnitude.                           |
